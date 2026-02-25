@@ -19,4 +19,4 @@ Bittensor Subnet. A Quantitative Space Odyssey Space Miners enables engineers to
 
 
 
-The name "Space Miners" and associated logos are trademarks of Joe Avataz. Use of these marks requires explicit written permission. The Apache 2.0 license applies only to the software code.
+The name "Space Miners" and associated logos are trademarks of Joe Avataz. Use of these marks requires explicit written permission.
