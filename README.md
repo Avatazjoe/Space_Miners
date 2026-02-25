@@ -18,5 +18,3 @@ Bittensor Subnet. A Quantitative Space Odyssey Space Miners enables engineers to
 
 
 
-
-The name "Space Miners" and associated logos are trademarks of Joe Avataz. Use of these marks requires explicit written permission.
